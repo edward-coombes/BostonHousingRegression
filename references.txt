@@ -1,0 +1,8 @@
+https://www.rdocumentation.org/packages/glmnet/versions/2.0-16/topics/cv.glmnet
+https://www.rdocumentation.org/packages/glmnet/versions/2.0-16/topics/predict.glmnet
+https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f
+https://www.rdocumentation.org/packages/base/versions/3.5.2/topics/seq
+https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
+https://www.rdocumentation.org/packages/glmnet/versions/2.0-16/topics/cv.glmnet
+https://www.r-bloggers.com/ridge-regression-and-the-lasso/
+https://stackoverflow.com/questions/6081439/changing-column-names-of-a-data-frame
